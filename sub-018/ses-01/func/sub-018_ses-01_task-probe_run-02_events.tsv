@@ -1,0 +1,148 @@
+onset	duration	parametric_modulation	regressor	description
+2.0223	0.95604	1	1	HV Go
+83.027	0.95604	1	1	HV Go
+163.02	0.95604	1	1	HV Go
+169.03	0.95604	1	1	HV Go
+176.03	0.95604	1	1	HV Go
+2.0223	0.95604	0	2	HV Go - by choice
+83.027	0.95604	-0.083333	2	HV Go - by choice
+163.02	0.95604	0	2	HV Go - by choice
+169.03	0.95604	0	2	HV Go - by choice
+176.03	0.95604	0.083333	2	HV Go - by choice
+2.0223	0.95604	0.07	3	HV Go - by value diff
+83.027	0.95604	-0.04	3	HV Go - by value diff
+163.02	0.95604	0.03	3	HV Go - by value diff
+169.03	0.95604	-0.03	3	HV Go - by value diff
+176.03	0.95604	-0.03	3	HV Go - by value diff
+39.023	0.95604	1	4	HV NoGo
+52.023	0.95604	1	4	HV NoGo
+61.023	0.95604	1	4	HV NoGo
+72.027	0.95604	1	4	HV NoGo
+78.026	0.95604	1	4	HV NoGo
+87.024	0.95604	1	4	HV NoGo
+90.024	0.95604	1	4	HV NoGo
+93.024	0.95604	1	4	HV NoGo
+110.02	0.95604	1	4	HV NoGo
+114.02	0.95604	1	4	HV NoGo
+125.02	0.95604	1	4	HV NoGo
+138.02	0.95604	1	4	HV NoGo
+172.03	0.95604	1	4	HV NoGo
+39.023	0.95604	0.14103	5	HV NoGo - by choice
+52.023	0.95604	-0.44231	5	HV NoGo - by choice
+61.023	0.95604	0.14103	5	HV NoGo - by choice
+72.027	0.95604	0.14103	5	HV NoGo - by choice
+78.026	0.95604	-0.44231	5	HV NoGo - by choice
+87.024	0.95604	0.14103	5	HV NoGo - by choice
+90.024	0.95604	0.057692	5	HV NoGo - by choice
+93.024	0.95604	0.14103	5	HV NoGo - by choice
+110.02	0.95604	0.14103	5	HV NoGo - by choice
+114.02	0.95604	-0.44231	5	HV NoGo - by choice
+125.02	0.95604	0.14103	5	HV NoGo - by choice
+138.02	0.95604	0.14103	5	HV NoGo - by choice
+172.03	0.95604	0.14103	5	HV NoGo - by choice
+39.023	0.95604	-0.01	6	HV NoGo - by value diff
+52.023	0.95604	-0.08	6	HV NoGo - by value diff
+61.023	0.95604	-0.01	6	HV NoGo - by value diff
+72.027	0.95604	0.02	6	HV NoGo - by value diff
+78.026	0.95604	-0.02	6	HV NoGo - by value diff
+87.024	0.95604	0.05	6	HV NoGo - by value diff
+90.024	0.95604	-0.01	6	HV NoGo - by value diff
+93.024	0.95604	0.04	6	HV NoGo - by value diff
+110.02	0.95604	0	6	HV NoGo - by value diff
+114.02	0.95604	-0.02	6	HV NoGo - by value diff
+125.02	0.95604	0	6	HV NoGo - by value diff
+138.02	0.95604	0.02	6	HV NoGo - by value diff
+172.03	0.95604	0	6	HV NoGo - by value diff
+2.0223	0.95604	0.26938	7	HV - by RT
+39.023	0.95604	-0.16922	7	HV - by RT
+52.023	0.95604	0.50261	7	HV - by RT
+61.023	0.95604	-0.15847	7	HV - by RT
+72.027	0.95604	-0.012986	7	HV - by RT
+78.026	0.95604	-0.12355	7	HV - by RT
+83.027	0.95604	-0.17423	7	HV - by RT
+87.024	0.95604	-0.15587	7	HV - by RT
+90.024	0.95604	-0.069936	7	HV - by RT
+93.024	0.95604	0.11411	7	HV - by RT
+110.02	0.95604	0.064754	7	HV - by RT
+114.02	0.95604	-0.2233	7	HV - by RT
+125.02	0.95604	0.026624	7	HV - by RT
+138.02	0.95604	-0.21255	7	HV - by RT
+163.02	0.95604	0.088044	7	HV - by RT
+169.03	0.95604	0.20939	7	HV - by RT
+172.03	0.95604	0.11243	7	HV - by RT
+176.03	0.95604	-0.087276	7	HV - by RT
+9.0224	0.95604	1	8	LV Go
+31.023	0.95604	1	8	LV Go
+34.023	0.95604	1	8	LV Go
+57.023	0.95604	1	8	LV Go
+129.02	0.95604	1	8	LV Go
+142.02	0.95604	1	8	LV Go
+185.03	0.95604	1	8	LV Go
+188.03	0.95604	1	8	LV Go
+9.0224	0.95604	-0.25758	9	LV Go - by choice
+31.023	0.95604	0.075758	9	LV Go - by choice
+34.023	0.95604	0.075758	9	LV Go - by choice
+57.023	0.95604	0.13636	9	LV Go - by choice
+129.02	0.95604	0.15909	9	LV Go - by choice
+142.02	0.95604	0.15909	9	LV Go - by choice
+185.03	0.95604	0.075758	9	LV Go - by choice
+188.03	0.95604	-0.42424	9	LV Go - by choice
+9.0224	0.95604	0	10	LV Go - by value diff
+31.023	0.95604	-0.02	10	LV Go - by value diff
+34.023	0.95604	-0.1	10	LV Go - by value diff
+57.023	0.95604	0.01	10	LV Go - by value diff
+129.02	0.95604	-0.02	10	LV Go - by value diff
+142.02	0.95604	0.06	10	LV Go - by value diff
+185.03	0.95604	-0.1	10	LV Go - by value diff
+188.03	0.95604	0	10	LV Go - by value diff
+26.023	0.95604	1	11	LV NoGo
+43.023	0.95604	1	11	LV NoGo
+68.024	0.95604	1	11	LV NoGo
+97.024	0.95604	1	11	LV NoGo
+117.02	0.95604	1	11	LV NoGo
+122.02	0.95604	1	11	LV NoGo
+135.02	0.95604	1	11	LV NoGo
+147.02	0.95604	1	11	LV NoGo
+179.03	0.95604	1	11	LV NoGo
+182.02	0.95604	1	11	LV NoGo
+26.023	0.95604	0.013636	12	LV NoGo - by choice
+43.023	0.95604	-0.11515	12	LV NoGo - by choice
+68.024	0.95604	0.10455	12	LV NoGo - by choice
+97.024	0.95604	-0.11515	12	LV NoGo - by choice
+117.02	0.95604	0.13485	12	LV NoGo - by choice
+122.02	0.95604	0.10455	12	LV NoGo - by choice
+135.02	0.95604	0.10455	12	LV NoGo - by choice
+147.02	0.95604	0.13485	12	LV NoGo - by choice
+179.03	0.95604	-0.16818	12	LV NoGo - by choice
+182.02	0.95604	-0.19848	12	LV NoGo - by choice
+26.023	0.95604	0.02	13	LV NoGo - by value diff
+43.023	0.95604	-0.06	13	LV NoGo - by value diff
+68.024	0.95604	-0.03	13	LV NoGo - by value diff
+97.024	0.95604	0.01	13	LV NoGo - by value diff
+117.02	0.95604	-0.01	13	LV NoGo - by value diff
+122.02	0.95604	0.03	13	LV NoGo - by value diff
+135.02	0.95604	-0.01	13	LV NoGo - by value diff
+147.02	0.95604	-0.02	13	LV NoGo - by value diff
+179.03	0.95604	0.06	13	LV NoGo - by value diff
+182.02	0.95604	-0.03	13	LV NoGo - by value diff
+9.0224	0.95604	0.0256	14	LV - by RT
+26.023	0.95604	-0.19075	14	LV - by RT
+31.023	0.95604	0.0073	14	LV - by RT
+34.023	0.95604	-0.02575	14	LV - by RT
+43.023	0.95604	0.21211	14	LV - by RT
+57.023	0.95604	-0.24313	14	LV - by RT
+68.024	0.95604	0.15071	14	LV - by RT
+97.024	0.95604	0.32833	14	LV - by RT
+117.02	0.95604	-0.1609	14	LV - by RT
+122.02	0.95604	0.09698	14	LV - by RT
+129.02	0.95604	-0.16717	14	LV - by RT
+135.02	0.95604	0.12584	14	LV - by RT
+142.02	0.95604	-0.05138	14	LV - by RT
+147.02	0.95604	-0.0243	14	LV - by RT
+179.03	0.95604	0.24107	14	LV - by RT
+182.02	0.95604	-0.23174	14	LV - by RT
+185.03	0.95604	0.07612	14	LV - by RT
+188.03	0.95604	-0.16894	14	LV - by RT
+22.023	0.95604	1	15	Sanity
+151.02	0.95604	1	15	Sanity
+0	0	0	16	Missed trials
