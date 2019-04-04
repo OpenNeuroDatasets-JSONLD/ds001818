@@ -1,4 +1,13 @@
 {
-    "BIDSVersion": "1.0.1",
-    "Name": "CAT Faces MRI experiment"
+    "Name": "CAT Faces MRI experiment",
+    "License": "",
+    "Authors": [
+        "Salomon, Tom"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": "",
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.1"
 }
