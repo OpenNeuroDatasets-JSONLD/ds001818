@@ -1,5 +1,4 @@
 {
-    "id": "HEAD",
     "Name": "CAT Faces MRI experiment",
     "License": "",
     "Authors": [
@@ -10,7 +9,9 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": [],
+    "Funding": [
+        "This work was supported by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement n° 715016), and the Israeli Science Foundation (2004/15) granted to Tom Schonberg. Tom Salomon was supported by the Nehemia Levtzion fellowship and the Fields-Rayant Minducate Learning Innovation Research Center."
+    ],
     "ReferencesAndLinks": [],
     "DatasetDOI": "",
     "BIDSVersion": "1.0.1"
