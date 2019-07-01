@@ -1,4 +1,5 @@
 {
+    "id": "HEAD",
     "Name": "CAT Faces MRI experiment",
     "License": "",
     "Authors": [
@@ -9,7 +10,7 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": "",
+    "Funding": [],
     "ReferencesAndLinks": [],
     "DatasetDOI": "",
     "BIDSVersion": "1.0.1"
