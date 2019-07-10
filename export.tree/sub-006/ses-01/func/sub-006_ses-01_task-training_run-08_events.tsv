@@ -1,0 +1,227 @@
+onset	duration	parametric_modulation	regressor	description
+22.38	1	1	1	HV Go
+28.38	1	1	1	HV Go
+30.381	1	1	1	HV Go
+96.381	1	1	1	HV Go
+106.38	1	1	1	HV Go
+110.38	1	1	1	HV Go
+126.15	1	1	1	HV Go
+132.15	1	1	1	HV Go
+134.15	1	1	1	HV Go
+172.16	1	1	1	HV Go
+197.15	1	1	1	HV Go
+226.15	1	1	1	HV Go
+22.38	1	-0.26389	2	HV Go - by choice
+28.38	1	-0.013889	2	HV Go - by choice
+30.381	1	0.23611	2	HV Go - by choice
+96.381	1	-0.18056	2	HV Go - by choice
+106.38	1	0.23611	2	HV Go - by choice
+110.38	1	-0.013889	2	HV Go - by choice
+126.15	1	-0.013889	2	HV Go - by choice
+132.15	1	0.23611	2	HV Go - by choice
+134.15	1	-0.18056	2	HV Go - by choice
+172.16	1	-0.013889	2	HV Go - by choice
+197.15	1	-0.26389	2	HV Go - by choice
+226.15	1	0.23611	2	HV Go - by choice
+22.38	1	0.02	3	HV Go - by value
+28.38	1	0.03	3	HV Go - by value
+30.381	1	-0.01	3	HV Go - by value
+96.381	1	-0.03	3	HV Go - by value
+106.38	1	-0.05	3	HV Go - by value
+110.38	1	0.04	3	HV Go - by value
+126.15	1	0.03	3	HV Go - by value
+132.15	1	-0.05	3	HV Go - by value
+134.15	1	-0.03	3	HV Go - by value
+172.16	1	0.04	3	HV Go - by value
+197.15	1	0.02	3	HV Go - by value
+226.15	1	-0.01	3	HV Go - by value
+22.38	1	-0.092811	4	HV Go - by GSD
+28.38	1	-0.086811	4	HV Go - by GSD
+30.381	1	-0.084811	4	HV Go - by GSD
+96.381	1	-0.01881	4	HV Go - by GSD
+106.38	1	-0.00881	4	HV Go - by GSD
+110.38	1	-0.0047933	4	HV Go - by GSD
+126.15	1	0.010957	4	HV Go - by GSD
+132.15	1	0.016957	4	HV Go - by GSD
+134.15	1	0.018957	4	HV Go - by GSD
+172.16	1	0.056981	4	HV Go - by GSD
+197.15	1	0.081985	4	HV Go - by GSD
+226.15	1	0.11101	4	HV Go - by GSD
+35.382	1	1	5	LV Go
+39.382	1	1	5	LV Go
+44.383	1	1	5	LV Go
+73.381	1	1	5	LV Go
+102.38	1	1	5	LV Go
+112.38	1	1	5	LV Go
+156.15	1	1	5	LV Go
+159.15	1	1	5	LV Go
+168.15	1	1	5	LV Go
+174.16	1	1	5	LV Go
+195.15	1	1	5	LV Go
+205.15	1	1	5	LV Go
+35.382	1	-0.3649	6	LV Go - by choice
+39.382	1	-0.17551	6	LV Go - by choice
+44.383	1	-0.031566	6	LV Go - by choice
+73.381	1	-0.19823	6	LV Go - by choice
+102.38	1	0.3851	6	LV Go - by choice
+112.38	1	0.3851	6	LV Go - by choice
+156.15	1	0.3851	6	LV Go - by choice
+159.15	1	-0.3649	6	LV Go - by choice
+168.15	1	-0.19823	6	LV Go - by choice
+174.16	1	0.3851	6	LV Go - by choice
+195.15	1	-0.031566	6	LV Go - by choice
+205.15	1	-0.17551	6	LV Go - by choice
+35.382	1	0.021667	7	LV Go - by value
+39.382	1	0.081667	7	LV Go - by value
+44.383	1	-0.098333	7	LV Go - by value
+73.381	1	-0.068333	7	LV Go - by value
+102.38	1	0.0016667	7	LV Go - by value
+112.38	1	0.061667	7	LV Go - by value
+156.15	1	0.061667	7	LV Go - by value
+159.15	1	0.021667	7	LV Go - by value
+168.15	1	-0.068333	7	LV Go - by value
+174.16	1	0.0016667	7	LV Go - by value
+195.15	1	-0.098333	7	LV Go - by value
+205.15	1	0.081667	7	LV Go - by value
+35.382	1	-0.022221	8	LV Go - by GSD
+39.382	1	-0.022221	8	LV Go - by GSD
+44.383	1	-0.022221	8	LV Go - by GSD
+73.381	1	-0.022221	8	LV Go - by GSD
+102.38	1	-0.0055508	8	LV Go - by GSD
+112.38	1	-0.038891	8	LV Go - by GSD
+156.15	1	0.011109	8	LV Go - by GSD
+159.15	1	0.011109	8	LV Go - by GSD
+168.15	1	0.011109	8	LV Go - by GSD
+174.16	1	0.027779	8	LV Go - by GSD
+195.15	1	0.027779	8	LV Go - by GSD
+205.15	1	0.044439	8	LV Go - by GSD
+2.38	1	1	9	HV NoGo
+9.38	1	1	9	HV NoGo
+41.383	1	1	9	HV NoGo
+62.381	1	1	9	HV NoGo
+79.381	1	1	9	HV NoGo
+120.38	1	1	9	HV NoGo
+129.15	1	1	9	HV NoGo
+145.15	1	1	9	HV NoGo
+209.15	1	1	9	HV NoGo
+220.15	1	1	9	HV NoGo
+233.15	1	1	9	HV NoGo
+240.15	1	1	9	HV NoGo
+2.38	1	-0.40278	10	HV NoGo - by choice
+9.38	1	0.18056	10	HV NoGo - by choice
+41.383	1	-0.15278	10	HV NoGo - by choice
+62.381	1	0.43056	10	HV NoGo - by choice
+79.381	1	0.34722	10	HV NoGo - by choice
+120.38	1	-0.40278	10	HV NoGo - by choice
+129.15	1	-0.15278	10	HV NoGo - by choice
+145.15	1	0.34722	10	HV NoGo - by choice
+209.15	1	0.18056	10	HV NoGo - by choice
+220.15	1	-0.40278	10	HV NoGo - by choice
+233.15	1	-0.40278	10	HV NoGo - by choice
+240.15	1	0.43056	10	HV NoGo - by choice
+2.38	1	0.0066667	11	HV NoGo - by value
+9.38	1	0.026667	11	HV NoGo - by value
+41.383	1	-0.023333	11	HV NoGo - by value
+62.381	1	-0.063333	11	HV NoGo - by value
+79.381	1	0.046667	11	HV NoGo - by value
+120.38	1	0.0066667	11	HV NoGo - by value
+129.15	1	-0.023333	11	HV NoGo - by value
+145.15	1	0.046667	11	HV NoGo - by value
+209.15	1	0.026667	11	HV NoGo - by value
+220.15	1	0.0066667	11	HV NoGo - by value
+233.15	1	0.0066667	11	HV NoGo - by value
+240.15	1	-0.063333	11	HV NoGo - by value
+15.38	1	1	12	LV NoGo
+24.38	1	1	12	LV NoGo
+75.381	1	1	12	LV NoGo
+77.381	1	1	12	LV NoGo
+108.38	1	1	12	LV NoGo
+122.38	1	1	12	LV NoGo
+124.15	1	1	12	LV NoGo
+150.15	1	1	12	LV NoGo
+177.16	1	1	12	LV NoGo
+183.15	1	1	12	LV NoGo
+218.15	1	1	12	LV NoGo
+237.15	1	1	12	LV NoGo
+15.38	1	0.20455	13	LV NoGo - by choice
+24.38	1	0.12121	13	LV NoGo - by choice
+75.381	1	-0.045455	13	LV NoGo - by choice
+77.381	1	0.12121	13	LV NoGo - by choice
+108.38	1	-0.12879	13	LV NoGo - by choice
+122.38	1	-0.27273	13	LV NoGo - by choice
+124.15	1	-0.045455	13	LV NoGo - by choice
+150.15	1	0.12121	13	LV NoGo - by choice
+177.16	1	-0.12879	13	LV NoGo - by choice
+183.15	1	0.20455	13	LV NoGo - by choice
+218.15	1	-0.27273	13	LV NoGo - by choice
+237.15	1	0.12121	13	LV NoGo - by choice
+15.38	1	0.081667	14	LV NoGo - by value
+24.38	1	-0.018333	14	LV NoGo - by value
+75.381	1	0.071667	14	LV NoGo - by value
+77.381	1	0.041667	14	LV NoGo - by value
+108.38	1	-0.078333	14	LV NoGo - by value
+122.38	1	-0.098333	14	LV NoGo - by value
+124.15	1	0.071667	14	LV NoGo - by value
+150.15	1	-0.018333	14	LV NoGo - by value
+177.16	1	-0.078333	14	LV NoGo - by value
+183.15	1	0.081667	14	LV NoGo - by value
+218.15	1	-0.098333	14	LV NoGo - by value
+237.15	1	0.041667	14	LV NoGo - by value
+0	0	0	15	Go - missed
+0	0	0	16	NoGo - erroneous response
+7.3798	1	1	17	NoGo - Sanity and fillers
+12.38	1	1	17	NoGo - Sanity and fillers
+47.384	1	1	17	NoGo - Sanity and fillers
+51.384	1	1	17	NoGo - Sanity and fillers
+55.385	1	1	17	NoGo - Sanity and fillers
+59.381	1	1	17	NoGo - Sanity and fillers
+65.381	1	1	17	NoGo - Sanity and fillers
+68.381	1	1	17	NoGo - Sanity and fillers
+70.381	1	1	17	NoGo - Sanity and fillers
+82.381	1	1	17	NoGo - Sanity and fillers
+86.381	1	1	17	NoGo - Sanity and fillers
+88.381	1	1	17	NoGo - Sanity and fillers
+90.381	1	1	17	NoGo - Sanity and fillers
+94.381	1	1	17	NoGo - Sanity and fillers
+98.381	1	1	17	NoGo - Sanity and fillers
+114.38	1	1	17	NoGo - Sanity and fillers
+138.15	1	1	17	NoGo - Sanity and fillers
+143.15	1	1	17	NoGo - Sanity and fillers
+148.15	1	1	17	NoGo - Sanity and fillers
+164.15	1	1	17	NoGo - Sanity and fillers
+166.15	1	1	17	NoGo - Sanity and fillers
+180.16	1	1	17	NoGo - Sanity and fillers
+185.15	1	1	17	NoGo - Sanity and fillers
+189.15	1	1	17	NoGo - Sanity and fillers
+191.15	1	1	17	NoGo - Sanity and fillers
+193.15	1	1	17	NoGo - Sanity and fillers
+201.15	1	1	17	NoGo - Sanity and fillers
+212.15	1	1	17	NoGo - Sanity and fillers
+214.15	1	1	17	NoGo - Sanity and fillers
+216.15	1	1	17	NoGo - Sanity and fillers
+224.15	1	1	17	NoGo - Sanity and fillers
+244.15	1	1	17	NoGo - Sanity and fillers
+22.38	1	-0.044933	18	All Go - by RT
+28.38	1	-0.0060915	18	All Go - by RT
+30.381	1	-0.013461	18	All Go - by RT
+35.382	1	-0.064405	18	All Go - by RT
+39.382	1	-0.026005	18	All Go - by RT
+44.383	1	-0.031958	18	All Go - by RT
+73.381	1	0.0052924	18	All Go - by RT
+96.381	1	0.01897	18	All Go - by RT
+102.38	1	-0.0041844	18	All Go - by RT
+106.38	1	0.00074449	18	All Go - by RT
+110.38	1	0.03683	18	All Go - by RT
+112.38	1	0.0037211	18	All Go - by RT
+126.15	1	-0.067168	18	All Go - by RT
+132.15	1	0.0096331	18	All Go - by RT
+134.15	1	0.018296	18	All Go - by RT
+156.15	1	0.021422	18	All Go - by RT
+159.15	1	0.055038	18	All Go - by RT
+168.15	1	0.00037799	18	All Go - by RT
+172.16	1	0.013681	18	All Go - by RT
+174.16	1	0.016327	18	All Go - by RT
+195.15	1	-0.0011805	18	All Go - by RT
+197.15	1	0.023784	18	All Go - by RT
+205.15	1	0.00074749	18	All Go - by RT
+226.15	1	0.034523	18	All Go - by RT
