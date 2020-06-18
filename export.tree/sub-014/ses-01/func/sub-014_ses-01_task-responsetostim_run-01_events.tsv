@@ -1,0 +1,105 @@
+onset	duration	parametric_modulation	regressor	description
+11.02	2	1	1	HV Go
+56.021	2	1	1	HV Go
+60.021	2	1	1	HV Go
+118.02	2	1	1	HV Go
+134.02	2	1	1	HV Go
+161.02	2	1	1	HV Go
+19.02	2	1	2	HV NoGo
+35.022	2	1	2	HV NoGo
+107.02	2	1	2	HV NoGo
+115.02	2	1	2	HV NoGo
+129.02	2	1	2	HV NoGo
+142.02	2	1	2	HV NoGo
+15.02	2	1	3	LV Go
+30.023	2	1	3	LV Go
+49.021	2	1	3	LV Go
+75.021	2	1	3	LV Go
+83.021	2	1	3	LV Go
+103.02	2	1	3	LV Go
+79.021	2	1	4	LV NoGo
+94.021	2	1	4	LV NoGo
+97.021	2	1	4	LV NoGo
+126.02	2	1	4	LV NoGo
+145.02	2	1	4	LV NoGo
+151.02	2	1	4	LV NoGo
+8.02	2	1	5	HV Neutral
+44.02	2	1	5	HV Neutral
+70.021	2	1	5	HV Neutral
+90.021	2	1	5	HV Neutral
+100.02	2	1	5	HV Neutral
+123.02	2	1	5	HV Neutral
+27.02	2	1	6	LV Neutral
+38.022	2	1	6	LV Neutral
+52.021	2	1	6	LV Neutral
+65.021	2	1	6	LV Neutral
+87.021	2	1	6	LV Neutral
+148.02	2	1	6	LV Neutral
+2.1532	2	1	7	HV Sanity
+158.02	2	1	7	HV Sanity
+112.02	2	1	8	LV Sanity
+139.02	2	1	8	LV Sanity
+11.02	2	0.18611	9	HV Go - by choice
+56.021	2	-0.34722	9	HV Go - by choice
+60.021	2	0.28611	9	HV Go - by choice
+118.02	2	0.15278	9	HV Go - by choice
+134.02	2	-0.18056	9	HV Go - by choice
+161.02	2	-0.097222	9	HV Go - by choice
+19.02	2	-0.3351	10	HV NoGo - by choice
+35.022	2	-0.13813	10	HV NoGo - by choice
+107.02	2	0.19823	10	HV NoGo - by choice
+115.02	2	-0.0017677	10	HV NoGo - by choice
+129.02	2	0.4149	10	HV NoGo - by choice
+142.02	2	-0.13813	10	HV NoGo - by choice
+15.02	2	-0.31818	11	LV Go - by choice
+30.023	2	-0.13636	11	LV Go - by choice
+49.021	2	0.34848	11	LV Go - by choice
+75.021	2	0.40909	11	LV Go - by choice
+83.021	2	-0.31818	11	LV Go - by choice
+103.02	2	0.015152	11	LV Go - by choice
+79.021	2	-0.11406	12	LV NoGo - by choice
+94.021	2	-0.16961	12	LV NoGo - by choice
+97.021	2	-0.12416	12	LV NoGo - by choice
+126.02	2	0.080387	12	LV NoGo - by choice
+145.02	2	0.24705	12	LV NoGo - by choice
+151.02	2	0.080387	12	LV NoGo - by choice
+2.1532	2	0.30054	13	All - by value
+8.02	2	0.10104	13	All - by value
+11.02	2	0.27258	13	All - by value
+15.02	2	-0.25176	13	All - by value
+19.02	2	0.24417	13	All - by value
+27.02	2	-0.1193	13	All - by value
+30.023	2	-0.14313	13	All - by value
+35.022	2	0.22488	13	All - by value
+38.022	2	-0.41959	13	All - by value
+44.02	2	0.09523	13	All - by value
+49.021	2	-0.20791	13	All - by value
+52.021	2	-0.12279	13	All - by value
+56.021	2	0.25462	13	All - by value
+60.021	2	0.2276	13	All - by value
+65.021	2	-0.10415	13	All - by value
+70.021	2	0.36526	13	All - by value
+75.021	2	-0.256	13	All - by value
+79.021	2	-0.2221	13	All - by value
+83.021	2	-0.19645	13	All - by value
+87.021	2	-0.34905	13	All - by value
+90.021	2	0.35671	13	All - by value
+94.021	2	-0.2518	13	All - by value
+97.021	2	-0.25212	13	All - by value
+100.02	2	0.099784	13	All - by value
+103.02	2	-0.18276	13	All - by value
+107.02	2	0.21898	13	All - by value
+112.02	2	-0.29685	13	All - by value
+115.02	2	0.16864	13	All - by value
+118.02	2	0.21306	13	All - by value
+123.02	2	0.12264	13	All - by value
+126.02	2	-0.18949	13	All - by value
+129.02	2	0.1376	13	All - by value
+134.02	2	0.14635	13	All - by value
+139.02	2	-0.30456	13	All - by value
+142.02	2	0.28609	13	All - by value
+145.02	2	-0.16366	13	All - by value
+148.02	2	-0.1238	13	All - by value
+151.02	2	-0.1521	13	All - by value
+158.02	2	0.31348	13	All - by value
+161.02	2	0.16011	13	All - by value
